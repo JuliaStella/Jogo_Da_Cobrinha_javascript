@@ -1,0 +1,13 @@
+.letra{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+   height: 95vh;
+   width:  95vw;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   color:rgb(44, 172, 44); 
+}
